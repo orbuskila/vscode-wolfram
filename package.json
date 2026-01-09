@@ -312,7 +312,7 @@
   },
   "dependencies": {
     "domutils": "^2.8.0",
-    "open": "8.4.0",
+    "open": "8.4.2",
     "path": "^0.12.7",
     "uuid": "^8.3.2",
     "vscode-languageclient": "8.0.2",
