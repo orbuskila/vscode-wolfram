@@ -316,6 +316,6 @@
     "path": "^0.12.7",
     "uuid": "^8.3.2",
     "vscode-languageclient": "8.0.2",
-    "zeromq": "^6.1.2"
+    "zeromq": "^6.5.0"
   }
 }
